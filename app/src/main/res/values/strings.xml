@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapAssignment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="ok">OK</string>
+    <string name="no_thanks">No, thanks</string>
+    <string name="location_permission_content">To continue, turn on device location, which uses Google\'s location service</string>
+</resources>
